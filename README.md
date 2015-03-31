@@ -1,3 +1,2 @@
 # DavisHochs-GuestBook
-My first repository
-is a readme
+My first repository is best repository
